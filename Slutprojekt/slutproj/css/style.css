@@ -1,0 +1,176 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+html, body
+{
+	height: 100%;
+}
+
+body
+{
+	width: 100%;
+}
+
+#sidebarbutton
+{
+	radius: 20px;
+	position: absolute;
+	top: 2.5%;
+	left: 1.5%;
+	width: 50px;
+	height: 50px;
+}
+
+header
+{
+	width: 100%;
+	height: 100px;
+	background: #000;
+}
+
+#navigationmenu
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	height: 12.5%;
+	background-color: #eee;
+}
+
+#navigationmenu ul
+{
+	list-style-type: none;
+	border: 1px solid #eee;
+	text-align: center;
+}
+
+#navigationmenu input
+{
+	margin-left: -4px;
+}
+
+#navigationmenu li
+{
+	display: inline-block;
+	margin: 0.5% 0 0.5% 0;
+	margin-left: -5px;
+	width: 10%;
+	min-width: 155px;
+}
+
+#navigationmenu li a
+{
+	width: 100%;
+	display: inline-block;
+	font-size: 20px;
+	line-height: 70px;
+	text-decoration: none;
+	color: #949bb7;
+	font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	transition: 1s;
+}
+
+#navigationmenu input
+{
+	width: 50%;
+	display: inline-block;
+}
+
+#navigationmenu li a:hover
+{
+	color: #4681db;
+	background: #ddd;
+}
+
+#navigationmenu li + li
+{
+	border-left: 1px solid #bbb;
+}
+
+#searchbar
+{
+	position: absolute;
+	top: 5%;
+	right: 5%;
+}
+
+#sidebar
+{
+	display:inline-block;
+	width: 15%;
+	height: 75%;
+	float:left;
+	position: absolute;
+	background: #000;
+	color: #fff;
+}
+
+#subcategory
+{
+	display: inline-block;
+}
+
+#subcategory a
+{
+	color: #fff;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 4px;
+}
+
+.sidebararrow
+{
+	width: 12px;
+	vertical-align: middle;
+}
+
+.courses
+{
+	font-size: 12px;
+	transition: all 0.15s
+}
+
+.courses a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+#welcome
+{
+	text-align: center;
+	margin-top: 200px;
+}
+
+form
+{
+	text-align: center;
+	display: inline;
+}
+
+.description
+{
+	text-align: center;
+	border-bottom: 1px solid #000;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+footer
+{
+	width: 100%;
+	background-color: #333;
+	color: #fff;
+	height: 12.5%;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+}
+
+footer p
+{
+	margin-top: 35px;
+}

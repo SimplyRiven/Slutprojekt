@@ -1,0 +1,13 @@
+Sammanfattningens centrala begrepp skall underkategoriseras och också ha en sammanfattning.
+T.ex. Matteprovet imorgon handlar om derivata, trigonometri och intergraler.
+Då skal man kunna klicka på derivata och se vad det handlar om.
+Man skall kunna kommentera, fråga och betygsätta.
+Folk som gillar denna sammanfattningen gillar dessa också, som på imdb.
+Dessa saker omfattar ämnet som du studerar på just nu, kategorisera de områden som tas upp i ämne också.
+Koppla det centrala innehållet från skolverket till varje sammanfattning.
+Man kan kryssa i vilka kurser som man har kunskap kring, eller klarat av.
+Man skall kunna skicka meddelanden till varandra och följa specifika användare.2
+Requesta sammanfattningar, så skall det visa de som har kunskap kring ämnet att det finns folk som vill ha en sammafattning på det...
+--- Förmulär för inlägg, "Ämnet... Matte, Svenska, Engelska" "Kurs... Matte 1c, 2c, 3c" ---
+Ha en dropdown meny ish grej på den vänstra delen av sidan
+Kunna byta ordersystem (by name, by date i en dropdown meny)
